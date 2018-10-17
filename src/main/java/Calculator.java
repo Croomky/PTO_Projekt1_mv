@@ -2,7 +2,7 @@
 public class Calculator {
 
     public static double add(double a, double b) {
-        return a + b;
+        return a + b + 1;
     }
 
     public static double minus(double a, double b) {
